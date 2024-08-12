@@ -25,7 +25,7 @@
 )
 
 ### Customer installment Pages
-![Admin Pages](//github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/customer.png)
+![Admin Pages](https://github.com/shinanmohamed363/installment_application_MERN/blob/38e3fad8cc33e9cdd920692effad349c9f4386e3/image/ins.png)
 
 ### OTP Page
 ![OTP Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/forgetpassword.png )
