@@ -26,11 +26,10 @@
 )
 
 ### Customer installment Pages
-![Customer Pages](URL_TO_CUSTOMER_PAGES_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/398d66a20063e0db42f5e398df739981a3b851dc/image/ins.png))
+![Customer Pages] (URL_TO_CUSTOMER_PAGES_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/398d66a20063e0db42f5e398df739981a3b851dc/image/ins.png)
 
 ### OTP Page
-![OTP Page]([URL_TO_OTP_PAGE_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/forgetpassword.png
-)
+![OTP Page](URL_TO_OTP_PAGE_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/forgetpassword.png )
 
 ### installment report
 ![Forget Password Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/image.png)
