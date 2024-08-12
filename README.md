@@ -12,7 +12,7 @@
 ## Application Screenshots
 
 ### Login Page
-![Login Page](image\login.png)
+![Login Page](installment_application_MERN/image/login.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](URL_TO_ADMIN_DASHBOARD_IMAGE)
