@@ -12,7 +12,7 @@
 ## Application Screenshots
 
 ### Login Page
-![Login Page](URL_TO_LOGIN_PAGE_IMAGE)
+![Login Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/67360278c499430eb49cb22f8fdff287cad9690e/image/login.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](URL_TO_ADMIN_DASHBOARD_IMAGE)
