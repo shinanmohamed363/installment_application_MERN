@@ -18,8 +18,7 @@
 ![Admin Dashboard](https://github.com/shinanmohamed363/installment_application_MERN/blob/e74ba696c47e1b1dbf9fb0103c399a546b0e1b79/image/admindashboard.png)
 
 ### Admin Pages
-![Admin Pages](URL_TO_ADMIN_PAGES_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/report.png
-)
+![Admin Pages](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/report.png)
 
 ### Customer Dashboard
 ![Customer Dashboard](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/customer.png
@@ -29,7 +28,7 @@
 ![Admin Pages](//github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/customer.png)
 
 ### OTP Page
-![OTP Page](URL_TO_OTP_PAGE_IMAGE](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/forgetpassword.png )
+![OTP Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/forgetpassword.png )
 
 ### installment report
 ![Forget Password Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/79df767cd49467457f817a06fe8760bacab33929/image/image.png)
