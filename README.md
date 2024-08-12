@@ -15,7 +15,7 @@
 ![Login Page](https://github.com/shinanmohamed363/installment_application_MERN/blob/67360278c499430eb49cb22f8fdff287cad9690e/image/login.png)
 
 ### Admin Dashboard
-![Admin Dashboard](URL_TO_ADMIN_DASHBOARD_IMAGE)
+![Admin Dashboard](https://github.com/shinanmohamed363/installment_application_MERN/blob/e74ba696c47e1b1dbf9fb0103c399a546b0e1b79/image/admindashboard.png)
 
 ### Admin Pages
 ![Admin Pages](URL_TO_ADMIN_PAGES_IMAGE)
