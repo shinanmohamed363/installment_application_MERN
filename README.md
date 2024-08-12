@@ -12,7 +12,7 @@
 ## Application Screenshots
 
 ### Login Page
-![Login Page](URL_TO_LOGIN_PAGE_IMAGE)
+![Login Page](.image/login.png)
 
 ### Admin Dashboard
 ![Admin Dashboard](URL_TO_ADMIN_DASHBOARD_IMAGE)
